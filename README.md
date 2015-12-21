@@ -1,2 +1,0 @@
-# fest
-Training Fest
